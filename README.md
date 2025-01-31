@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- Abdulraman Imam Abdulkarim 
+- U23CS1039 
 
 ## Getting Started
 
